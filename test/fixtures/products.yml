@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  description: MyText
+  sub_category_id: 1
+  price: 1.5
+  warranty_expire_at: 2013-06-14
+  brand: MyString
+  serial: MyString
+
+two:
+  name: MyString
+  description: MyText
+  sub_category_id: 1
+  price: 1.5
+  warranty_expire_at: 2013-06-14
+  brand: MyString
+  serial: MyString
